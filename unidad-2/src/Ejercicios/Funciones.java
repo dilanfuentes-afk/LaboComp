@@ -70,8 +70,7 @@ public class Funciones {
 
         while (bin > 0) {
             int digito = bin % 10;  // tomo el último dígito
-
-            if (digito != 0 && digito != 1) {
+            // if (digito != 0 && digito != 1) {
                 System.out.println("Error: el número no es binario.");
                 return -1; // código de error
             }
@@ -85,7 +84,11 @@ public class Funciones {
         return decimal;
     }
 
-    static double raizCuadrada(double n) {
+    public double raizCuadrada(double argumento) {
+        //Profesor metodo
+        double base = 7; //Elido arbitrariamente
+        double altura = argumento / base;
+        //IA metodo
         if (n < 0) throw new IllegalArgumentException("n negativo");
         if (n == 0) return 0.0;
 

@@ -4,7 +4,7 @@ import static Ejercicios.Funciones.potencia;
 
 public class Ejercicio24 {
     public static void main(String[] args) {
-        double resultado = potencia(2,3);
+        double resultado = potencia(2,4);
         System.out.println("El numero ya elevado es " + resultado);
     }
 }
