@@ -65,47 +65,49 @@ public class Funciones {
     }
 
     public static int deBinarioADecimal(int bin){
-        int decimal = 0;
-        int potencia = 1; // 2^0 = 1
+        return 1; }
 
-        while (bin > 0) {
-            int digito = bin % 10;  // tomo el último dígito
-            // if (digito != 0 && digito != 1) {
-                System.out.println("Error: el número no es binario.");
-                return -1; // código de error
-            }
-
-            int producto = digito * potencia;
-            decimal = decimal + producto;
-
-            potencia = potencia * 2; // aumento la potencia (2^0, 2^1, 2^2...)
-            bin = bin / 10; // elimino el último dígito
-        }
-        return decimal;
-    }
-
-    public double raizCuadrada(double argumento) {
-        //Profesor metodo
-        double base = 7; //Elido arbitrariamente
+    public static double raizCuadrada(double argumento, double tolerancia) {
+        double base = 7;    // Elegido arbitrariamente
         double altura = argumento / base;
-        //IA metodo
-        if (n < 0) throw new IllegalArgumentException("n negativo");
-        if (n == 0) return 0.0;
 
-        double x = n;          // estimación inicial
-        double tol = 1e-6;     // suficiente para 5 decimales
-        double diff = Double.MAX_VALUE;
-
-        while (diff > tol) {
-            double nx = 0.5 * (x + n / x); // Newton-Raphson (babilónico)
-            diff = x - nx;
-            if (diff < 0) diff = -diff;    // |diff| sin Math.abs
-            x = nx;
+        while (!sonIguales(base, altura, tolerancia)) {
+            base = (base + altura) / 2;
+            altura = argumento / base;
         }
-
-        // redondeo manual a 5 decimales
-        double factor = 100000.0;
-        long tmp = (long) (x * factor + 0.5);
-        return tmp / factor;
+        return base;
     }
-}
+
+    public static int factorial(int num) {
+        if (num == 0){
+            return 1;
+        } else
+            return num * factorial(num - 1);
+    }
+    public static int sumaNatural(int num){
+        if (num == 0){
+            return 0;
+        } else {
+            return num + sumaNatural(num - 1);
+        }
+    }
+    public static int fibonacci(int num){
+        if (num == 0){
+            return 0;
+        } else if (num == 1) {
+            return 1;
+        } else {
+            return fibonacci(num - 1) + fibonacci(num - 2);
+        }
+    }
+    public static int sumaDigitos(int n){
+        n = Math.abs(n); // Asegura que el número sea positivo
+
+        if (n < 10) {
+            return n;
+        } else {
+            return (n % 10) + sumaDigitos(n / 10);
+        }
+    }
+    }
+
