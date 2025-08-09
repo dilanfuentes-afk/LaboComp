@@ -8,10 +8,8 @@ public class Ejercicio36 {
         System.out.print("Ingrese el texto que desea saber las palabras: ");
         String texto = ent.nextLine();
 
-        texto = texto.trim();
-
         if (!texto.isEmpty()) {
-            String[] palabras = texto.split("\\s+"); // \\s+ = uno o más espacios
+            String[] palabras = texto.split("\\s+");
             System.out.println("Cantidad de palabras: " + palabras.length);
         } else {
             System.out.println("No escribiste ninguna palabra.");
