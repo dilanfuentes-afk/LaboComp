@@ -18,14 +18,20 @@ public class Funciones {
     }
 
     public static double potencia(int base, int exponente) {
-        int resultado;
-        if(exponente == 0){
+        double resultado = 1;
+        if (exponente == 0){
             return 1;
+        } else if (exponente > 0){
+            for (int i = 0; i < exponente; i++){
+                resultado = base * resultado;
+            }
+            return resultado;
+        } else {
+            for (int i = 0; i > exponente; i--){
+                resultado = base * exponente;
+            }
+            return resultado;
         }
-        if (exponente < 0) {
-            return 1.0 / potencia(base, -exponente);
-        }
-        return base * potencia(base, exponente - 1);
     }
 
     public static int enteroAleatorio(int min, int max) {
