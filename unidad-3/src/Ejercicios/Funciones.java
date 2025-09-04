@@ -1,5 +1,7 @@
 package Ejercicios;
 
+import java.util.Arrays;
+
 public class Funciones {
     public static void imprimirVector(int[] vector) {
         for (int i : vector) {
@@ -63,4 +65,47 @@ public class Funciones {
         }
         return inverso;
     }
+
+    public static int[] vectoresMenorAMayor(int [] vector1, int [] vector2){
+        //Vector 1 (1,3,5,7,9)
+        //Vector 2 (2,4,6,8,10)
+
+        int [] vec = new int[vector1.length+vector2.length];
+        int i = 0, j = 0, k = 0;
+        while (i < vector1.length && j < vector2.length) {
+            if (vector1[i] == vector2[j]) {
+                vec[k] = vector1[i]; // guardo coincidencia
+                k++;
+                i++;
+                j++;
+            } else if (vector1[i] < vector2[j]) {
+                i++;
+            } else {
+                j++;
+            }
+        }
+        return Arrays.copyOf(vec, k);
+
+    }
+
+    public static void imprimirMatriz(int[][] matrix) {
+        for (int i = 0; i < matrix.length; i++) {
+            for (int j = 0; j < matrix[i].length; j++) {
+                System.out.printf("%-10s ", matrix[i][j]);
+            }
+            System.out.println();
+        }
+    }
+
+    public static int [][] matrizAleatoria(int filas,int columnas,int min,int max){
+        int [][] matriz = new int[filas][columnas];
+
+        for (int i = 0; i < matriz.length; i++) {
+            for (int j = 0; j < matriz[i].length; j++) {
+                matriz[i][j] = (int) (Math.random() * (max - min + 1)) + min;
+            }
+        }
+        return matriz;
+    }
+
 }

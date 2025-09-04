@@ -13,6 +13,7 @@ public class Ejercicio14 {
             System.out.print("Ingrese el valor del vector: ");
             vec[i] = ent.nextInt();
         }
+
         imprimirVector(vectorInverso(vec));
     }
 }
