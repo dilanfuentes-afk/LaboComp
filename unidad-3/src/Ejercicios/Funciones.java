@@ -4,10 +4,13 @@ import java.util.Arrays;
 
 public class Funciones {
     public static void imprimirVector(int[] vector) {
-        for (int i : vector) {
-            System.out.println(i);
+        System.out.print("[");
+        for (int e : vector) {
+            System.out.printf("%d ", e);
         }
+        System.out.println("]");
     }
+
 
     public static int[] vectorAleatorio(int min, int max, int n) {
         int[] vector = new int[n];
