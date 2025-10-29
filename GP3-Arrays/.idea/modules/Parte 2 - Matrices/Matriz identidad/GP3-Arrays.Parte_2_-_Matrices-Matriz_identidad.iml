@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Parte_2_-_Matrices-Matriz_identidad" external.linked.project.path="$MODULE_DIR$/../../../../Parte 2 - Matrices/Matriz identidad" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="GP3-Arrays" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Parte 2 - Matrices/Matriz identidad">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Parte 2 - Matrices/Matriz identidad/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Parte 2 - Matrices/Matriz identidad/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Parte 2 - Matrices/Matriz identidad/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

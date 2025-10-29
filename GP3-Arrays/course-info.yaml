@@ -1,0 +1,19 @@
+type: marketplace
+title: GP3-Arrays
+language: Spanish
+summary: Tests para ejercicios seleccionados de la guía de arrays para la materia
+  Laboratorio de Computadoras Electrónicas de la EPET 14.
+programming_language: Java
+content:
+  - Parte 1 - Vectores
+  - Parte 2 - Matrices
+additional_files:
+  - name: build.gradle
+  - name: settings.gradle
+mode: Study
+environment_settings:
+  jvm_language_level: JDK_1_8
+solutions_hidden: true
+vendor:
+  name: Dario Alejandro Marin Roth
+yaml_version: 5

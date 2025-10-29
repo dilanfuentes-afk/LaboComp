@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Parte_1_-_Vectores-Hallar_valor:test" external.linked.project.path="$MODULE_DIR$/../../../../Parte 1 - Vectores/Hallar valor" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="GP3-Arrays" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../../../Parte 1 - Vectores/Hallar valor/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Parte 1 - Vectores/Hallar valor/src/test" />
+    <content url="file://$MODULE_DIR$/../../../../Parte 1 - Vectores/Hallar valor/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../Parte 1 - Vectores/Hallar valor/test" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="GP3-Arrays.Parte_1_-_Vectores-Hallar_valor.main" />
+    <orderEntry type="module" module-name="GP3-Arrays.util.main" />
+    <orderEntry type="module" module-name="GP3-Arrays.util.test" production-on-test="" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="GP3-Arrays.Parte_1_-_Vectores-Hallar_valor.main" />
+</module>

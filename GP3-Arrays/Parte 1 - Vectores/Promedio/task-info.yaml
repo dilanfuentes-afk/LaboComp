@@ -1,0 +1,45 @@
+type: edu
+files:
+  - name: src/Promedio.java
+    visible: true
+    placeholders:
+      - offset: 35
+        length: 13
+        placeholder_text: retorno
+        initial_state:
+          length: 7
+          offset: 35
+        initialized_from_dependency: false
+        encrypted_possible_answer: UmqeXCv7wRIU/lW6XCNeTA==
+        selected: false
+        status: Solved
+      - offset: 58
+        length: 13
+        placeholder_text: parametros
+        initial_state:
+          length: 10
+          offset: 52
+        initialized_from_dependency: false
+        encrypted_possible_answer: swWWBce+K5O3H96xLB91Yg==
+        selected: true
+        status: Solved
+      - offset: 75
+        length: 283
+        placeholder_text: // Solución
+        initial_state:
+          length: 11
+          offset: 74
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3OqGYBANRwoueERpsPwGLErfV6URmlPPA84x9WgYYPvVdSjyIeLyU3QAjHITtz8k5h3fSQIKPvJHw0tJOSw+xzW/FzYAt70ufiiqoJogpPTJcy/N6dUH2rWlBHIBZbB5YbOCgsWiv3fgdL9WvqHtuQjPweddX6nqLFbEt6J3WN3EUq1AL6QDL/CZRB4zDNUAPk19CuArM8WVICYRTa94KoWNkvQnHaaVexJFPmDsYNGM+5HqoLq6K3tAq3DVQ9sz
+        selected: false
+        status: Solved
+        is_visible: false
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 05 Oct 2025 20:55:30 UTC"
+record: -1

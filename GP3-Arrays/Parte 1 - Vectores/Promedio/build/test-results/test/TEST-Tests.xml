@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="20" skipped="0" failures="0" errors="0" timestamp="2025-10-05T20:55:30.039Z" hostname="DESKTOP-M6G0CNS" time="0.014">
+  <properties/>
+  <testcase name="promedioOfPositiveNumbers" classname="Tests" time="0.003"/>
+  <testcase name="promedioOfEmptyArray" classname="Tests" time="0.0"/>
+  <testcase name="promedioOfAlternatingPositiveAndNegative" classname="Tests" time="0.0"/>
+  <testcase name="promedioOfNegativeNumbers" classname="Tests" time="0.0"/>
+  <testcase name="promedioOfMixedNumbers" classname="Tests" time="0.0"/>
+  <testcase name="promedioOfZeros" classname="Tests" time="0.0"/>
+  <testcase name="promedioOfTwoElements" classname="Tests" time="0.0"/>
+  <testcase name="promedioOfLargeNumbers" classname="Tests" time="0.0"/>
+  <testcase name="promedioOfTwoZeros" classname="Tests" time="0.0"/>
+  <testcase name="promedioOfLargeNegativeNumbers" classname="Tests" time="0.0"/>
+  <testcase name="promedioOfMixedLargeNumbers" classname="Tests" time="0.001"/>
+  <testcase name="promedioOfSingleZero" classname="Tests" time="0.0"/>
+  <testcase name="promedioOfAlternatingNumbers" classname="Tests" time="0.0"/>
+  <testcase name="promedioOfRepeatingNumbers" classname="Tests" time="0.0"/>
+  <testcase name="promedioOfNegativeAndPositiveNumbers" classname="Tests" time="0.001"/>
+  <testcase name="promedioOfSingleNegativeNumber" classname="Tests" time="0.0"/>
+  <testcase name="promedioOfSingleElement" classname="Tests" time="0.0"/>
+  <testcase name="promedioOfLargeArray" classname="Tests" time="0.0"/>
+  <testcase name="promedioOfTwoNegativeElements" classname="Tests" time="0.0"/>
+  <testcase name="promedioOfSmallNumbers" classname="Tests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

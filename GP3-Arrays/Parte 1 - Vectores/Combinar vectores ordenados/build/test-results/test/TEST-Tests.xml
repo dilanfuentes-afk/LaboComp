@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="20" skipped="0" failures="0" errors="0" timestamp="2025-10-05T23:44:11.785Z" hostname="DESKTOP-M6G0CNS" time="0.011">
+  <properties/>
+  <testcase name="combinarVectoresOrdenadosFirstPositiveSecondZero" classname="Tests" time="0.003"/>
+  <testcase name="combinarVectoresOrdenadosSecondEmpty" classname="Tests" time="0.001"/>
+  <testcase name="combinarVectoresOrdenadosFirstEmpty" classname="Tests" time="0.0"/>
+  <testcase name="combinarVectoresOrdenadosFirstPositiveSecondNegative" classname="Tests" time="0.0"/>
+  <testcase name="combinarVectoresOrdenadosSecondLarger" classname="Tests" time="0.0"/>
+  <testcase name="combinarVectoresOrdenadosNoOverlap" classname="Tests" time="0.0"/>
+  <testcase name="combinarVectoresOrdenadosFirstNegativeSecondPositive" classname="Tests" time="0.0"/>
+  <testcase name="combinarVectoresOrdenadosMixedNumbers" classname="Tests" time="0.0"/>
+  <testcase name="combinarVectoresOrdenadosSingleElementEach" classname="Tests" time="0.001"/>
+  <testcase name="combinarVectoresOrdenadosSingleElementSame" classname="Tests" time="0.0"/>
+  <testcase name="combinarVectoresOrdenadosNegativeNumbers" classname="Tests" time="0.0"/>
+  <testcase name="combinarVectoresOrdenadosFirstZeroSecondPositive" classname="Tests" time="0.0"/>
+  <testcase name="combinarVectoresOrdenadosFirstLarger" classname="Tests" time="0.001"/>
+  <testcase name="combinarVectoresOrdenadosFirstNegativeSecondEmpty" classname="Tests" time="0.0"/>
+  <testcase name="combinarVectoresOrdenadosFirstZeroSecondNegative" classname="Tests" time="0.0"/>
+  <testcase name="combinarVectoresOrdenadosSameElements" classname="Tests" time="0.0"/>
+  <testcase name="combinarVectoresOrdenadosBothEmpty" classname="Tests" time="0.0"/>
+  <testcase name="combinarVectoresOrdenadosFirstEmptySecondNegative" classname="Tests" time="0.0"/>
+  <testcase name="combinarVectoresOrdenadosOverlap" classname="Tests" time="0.0"/>
+  <testcase name="combinarVectoresOrdenadosFirstNegativeSecondZero" classname="Tests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

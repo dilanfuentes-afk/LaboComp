@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="20" skipped="0" failures="0" errors="0" timestamp="2025-10-05T20:58:50.032Z" hostname="DESKTOP-M6G0CNS" time="0.01">
+  <properties/>
+  <testcase name="hallarValorInMiddle" classname="Tests" time="0.003"/>
+  <testcase name="hallarValorLargeArray" classname="Tests" time="0.0"/>
+  <testcase name="hallarValorSingleElementNotFound" classname="Tests" time="0.0"/>
+  <testcase name="hallarValorZeros" classname="Tests" time="0.0"/>
+  <testcase name="hallarValorRepeatingNumbers" classname="Tests" time="0.0"/>
+  <testcase name="hallarValorLastElement" classname="Tests" time="0.001"/>
+  <testcase name="hallarValorSingleElementFound" classname="Tests" time="0.0"/>
+  <testcase name="hallarValorAlternatingPositiveAndNegative" classname="Tests" time="0.0"/>
+  <testcase name="hallarValorEmptyArray" classname="Tests" time="0.0"/>
+  <testcase name="hallarValorFirstElement" classname="Tests" time="0.001"/>
+  <testcase name="hallarValorTwoElements" classname="Tests" time="0.0"/>
+  <testcase name="hallarValorNotFound" classname="Tests" time="0.0"/>
+  <testcase name="hallarValorAllSame" classname="Tests" time="0.0"/>
+  <testcase name="hallarValorMixedNumbers" classname="Tests" time="0.001"/>
+  <testcase name="hallarValorAlternatingNumbers" classname="Tests" time="0.0"/>
+  <testcase name="hallarValorMixedLargeNumbers" classname="Tests" time="0.0"/>
+  <testcase name="hallarValorTwoNegativeElements" classname="Tests" time="0.0"/>
+  <testcase name="hallarValorFirstOccurrence" classname="Tests" time="0.0"/>
+  <testcase name="hallarValorLargeNegativeNumbers" classname="Tests" time="0.0"/>
+  <testcase name="hallarValorNegativeNumbers" classname="Tests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

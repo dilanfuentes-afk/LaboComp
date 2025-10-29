@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="20" skipped="0" failures="0" errors="0" timestamp="2025-10-07T17:39:59.775Z" hostname="DESKTOP-M6G0CNS" time="0.014">
+  <properties/>
+  <testcase name="maximaGananciaProfitWithDuplicates" classname="Tests" time="0.002"/>
+  <testcase name="maximaGananciaProfitAtEnd" classname="Tests" time="0.0"/>
+  <testcase name="maximaGananciaNoProfit" classname="Tests" time="0.0"/>
+  <testcase name="maximaGananciaProfitWithNegatives" classname="Tests" time="0.0"/>
+  <testcase name="maximaGananciaProfitWithSingleDip" classname="Tests" time="0.0"/>
+  <testcase name="maximaGananciaSingleElement" classname="Tests" time="0.0"/>
+  <testcase name="maximaGananciaLargeInputDecreasing" classname="Tests" time="0.001"/>
+  <testcase name="maximaGananciaMixedValues" classname="Tests" time="0.0"/>
+  <testcase name="maximaGananciaIncreasingPrices" classname="Tests" time="0.001"/>
+  <testcase name="maximaGananciaLargeInput" classname="Tests" time="0.0"/>
+  <testcase name="maximaGananciaSamePrices" classname="Tests" time="0.0"/>
+  <testcase name="maximaGananciaProfitWithGaps" classname="Tests" time="0.0"/>
+  <testcase name="maximaGananciaProfitInMiddle" classname="Tests" time="0.001"/>
+  <testcase name="maximaGananciaRandomPrices" classname="Tests" time="0.0"/>
+  <testcase name="maximaGananciaEmptyArray" classname="Tests" time="0.0"/>
+  <testcase name="maximaGananciaTwoDaysProfit" classname="Tests" time="0.0"/>
+  <testcase name="maximaGananciaProfitAtStart" classname="Tests" time="0.001"/>
+  <testcase name="maximaGananciaDecreasingPrices" classname="Tests" time="0.0"/>
+  <testcase name="maximaGananciaTwoDaysNoProfit" classname="Tests" time="0.0"/>
+  <testcase name="maximaGananciaProfitWithZeros" classname="Tests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

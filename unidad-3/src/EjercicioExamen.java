@@ -8,9 +8,8 @@ public class EjercicioExamen {
         }
 
         int paraAdelante = 0;
-        for (int i = origen; i != destino;) {
+        for (int i = origen; i != destino; i = (i + 1) % n) {
             paraAdelante = paraAdelante + distancia[i];
-            i = (i + 1) % n;
         }
 
         int paraAtras = total - paraAdelante;

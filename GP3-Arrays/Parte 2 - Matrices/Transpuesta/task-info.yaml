@@ -1,0 +1,45 @@
+type: edu
+files:
+  - name: src/Transpuesta.java
+    visible: true
+    placeholders:
+      - offset: 45
+        length: 8
+        placeholder_text: retorno
+        initial_state:
+          length: 7
+          offset: 45
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4ouju8vhFd1gKa9D/UIAqw==
+        selected: false
+        status: Solved
+      - offset: 65
+        length: 15
+        placeholder_text: parametros
+        initial_state:
+          length: 10
+          offset: 64
+        initialized_from_dependency: false
+        encrypted_possible_answer: NL0CtJT0WSVeZtNmfAVNnQ==
+        selected: false
+        status: Solved
+      - offset: 81
+        length: 72
+        placeholder_text: // Solución
+        initial_state:
+          length: 11
+          offset: 86
+        initialized_from_dependency: false
+        encrypted_possible_answer: +hQ9RDt1U+2+xtT1jGIYy3XH/CPwbgwTdQbp861SP6o7FN8Tvzpu/vJse6XySvFiG1OCF7PhLl0ut2Zq47lVQ1wJE2qYR7OV3dZSWRdpqa+ICrMaNZtJUAZrCd+jImuLT2O7aA5klrx9r0uEAhjwm4IWAwUr2BH1oKxLAdNf7jRG+tlT1xlPOSDok+7irC59ZcorBIh51rJymsqOZx7thQKMMhHJ59qwKpjbQIBskt1riVIiQHz5mPPmKc+zF9I4mmcdNNnzMfbdkb85yPifMIwxVlF7t47JA1FJca5WxBRs/XHUqhb6vU/dOajfCKJUwaMpdsXAhXWfzEX/JTGq3p/NFmYuf87k+Er+C4Ft6Mo/CJMvUWHNEwWXybIDxeMBYJhuO4/Hj4QOuZLXwNIgspu0pGXCGbAlcB9FyD9HSZ9anQf8yiliVg3khwiN3hm0Z85MNnPIvTilJsa5xwkLAIwexKoM8RwoA0BZxqvfDhsg+vfvSaPqZf0GHcq9MRPbySTDgFWXPdXe1HCpG4yBzKu8AGIQqjF0zRItUk2ZizY=
+        selected: false
+        status: Solved
+        is_visible: false
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 06 Oct 2025 02:26:41 UTC"
+record: -1

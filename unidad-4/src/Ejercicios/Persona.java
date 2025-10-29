@@ -1,16 +1,20 @@
 package Ejercicios;
 
 public class Persona {
-    String nombre;
-    int edad;
-    double altura;
-
     //Atributos
+    public String nombre;
+    public int edad;
+    public double altura;
+
+
     @Override
     public String toString() {
-        return String.format("nombre: &s\nEdad: &d\nAltura: &f,nombre,edad,altura");
+        return String.format("Nombre: %s\nEdad: %d\nAltura: %f",nombre,edad,altura);
     }
 
-    if()
+    public boolean esMayorDeEdad (){
+        if (edad >= 18) return true;
+        else return false;
+    }
 }
 

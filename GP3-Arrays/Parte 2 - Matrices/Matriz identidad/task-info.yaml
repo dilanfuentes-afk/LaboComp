@@ -1,0 +1,45 @@
+type: edu
+files:
+  - name: src/Identidad.java
+    visible: true
+    placeholders:
+      - offset: 139
+        length: 217
+        placeholder_text: retorno
+        initial_state:
+          length: 7
+          offset: 43
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4ouju8vhFd1gKa9D/UIAqw==
+        selected: true
+        status: Solved
+      - offset: 360
+        length: 15
+        placeholder_text: parametros
+        initial_state:
+          length: 10
+          offset: 61
+        initialized_from_dependency: false
+        encrypted_possible_answer: L51g7HzK4qJKL3lMWlwKow==
+        selected: true
+        status: Solved
+      - offset: 381
+        length: 13
+        placeholder_text: // Solución
+        initial_state:
+          length: 11
+          offset: 83
+        initialized_from_dependency: false
+        encrypted_possible_answer: dCSGh67RRydK2ozCTTHP9Vqtihn0732CGRScYm8k1i7TSO6u+V4jWmSV5eQ4i2iy64tXtWfxuRbtUoe73OPIqzd8Uul1pGoFIgfXAR7USdpz+7cQ1cBw76I3w1thkIabi+caw/gM5XyqO7iTXdta3Y+4w/f6NEpSsCzz0/JWLc+Ezp8jJP04oXdINahXn/cU
+        selected: false
+        status: Solved
+        is_visible: false
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 05 Oct 2025 23:57:25 UTC"
+record: -1

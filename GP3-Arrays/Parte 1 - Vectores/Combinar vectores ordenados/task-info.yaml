@@ -1,0 +1,45 @@
+type: edu
+files:
+  - name: src/CombinarVectores.java
+    visible: true
+    placeholders:
+      - offset: 50
+        length: 6
+        placeholder_text: retorno
+        initial_state:
+          length: 7
+          offset: 50
+        initialized_from_dependency: false
+        encrypted_possible_answer: KTgsNHUR7APfH457Pl9aWw==
+        selected: false
+        status: Solved
+      - offset: 83
+        length: 24
+        placeholder_text: parametros
+        initial_state:
+          length: 10
+          offset: 84
+        initialized_from_dependency: false
+        encrypted_possible_answer: xo7KtJDk/IDe9EVrj/3EdeMnT6w/jC5TKHnWcSlqrk8=
+        selected: false
+        status: Solved
+      - offset: 119
+        length: 286
+        placeholder_text: // Solución
+        initial_state:
+          length: 11
+          offset: 106
+        initialized_from_dependency: false
+        encrypted_possible_answer: xKgNifHAVWp0xh2ba7aDGh8YsvvyhiHarDuL3pa2z8SCpBV8Ot9WTK9AqBxE92MdwdD9HNxDadCMt0h3Ha4ou3d9aCmBRsJS7orVyjFXqzyqRw0xXt5m53a0GnpT0Zvt3zOv7tegYKi1V1JIei+bLEOgXefjipHD+MuXI1C1H2uQOpRRxb2W7JKGSW4p4G+XUGtGTRBA0xaSCD7KWPfeXltznad1khSjJNvDbaKq9XABL62pVxnq2IPh22NXHvqLyjmtbuAmJNp+grYqiWAivYSJlHXC8dDwO3tK3DbNCAnlgNMkMxPO/Jxn8tQtTgmlcSnXTEuuKi6zhjg3GXLb9aHj9G1/XIY75kXaD1V+AF7lOdtu8PbuJirl9NQvzryN3d/YxbhlPh2vv04Ug/OsbWrdx9/dGvDxSmjN41Z3eWyHFUoC/mqcaI7EPIIMhSOQ2BxW2MmkaBCClqYA/3Oj0TJ7IONlSAsxP9AXEBtke3mzKUtovG5B94GEklsvCnl2js6nrtnB1OrJEGkHJcDE6pPKKsvR85YhfayYl57F8a6viipi8Exo/9GNAvDINt5Uxr9xBkmUmohkk9JtNHeviycc3X2FJhWxw3P9Iz1BC5paNMZgLYJ+boDFe50uEyZ9taA6qvAMmf/2JhpUKrMTJGah4ckOB4UK+PZfpDPaMwNXJeEeXcQezt66Qz/BhRcsiYgouii9sr26NVQQi5wq2EH/pJVm00fsFXlZr/CDAj56IP6cX45klqMrLVkekM7bAwxd+F7+88ve1VI1klLUw99/WodmEa2ukqyCWGTpkRM=
+        selected: false
+        status: Solved
+        is_visible: false
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 05 Oct 2025 23:44:11 UTC"
+record: -1

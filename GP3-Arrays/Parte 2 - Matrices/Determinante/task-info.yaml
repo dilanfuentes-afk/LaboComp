@@ -1,0 +1,53 @@
+type: edu
+files:
+  - name: src/Determinante.java
+    visible: true
+    placeholders:
+      - offset: 46
+        length: 7
+        placeholder_text: retorno
+        initial_state:
+          length: 7
+          offset: 46
+        initialized_from_dependency: false
+        encrypted_possible_answer: QdJKDjy4GCR1sGqaRlhoeQ==
+        selected: false
+        status: Unchecked
+      - offset: 67
+        length: 10
+        placeholder_text: parametros
+        initial_state:
+          length: 10
+          offset: 67
+        initialized_from_dependency: false
+        encrypted_possible_answer: NL0CtJT0WSVeZtNmfAVNnQ==
+        selected: false
+        status: Unchecked
+      - offset: 89
+        length: 11
+        placeholder_text: // Solución
+        initial_state:
+          length: 11
+          offset: 89
+        initialized_from_dependency: false
+        encrypted_possible_answer: YYyVpFJ3gkni1pP+nZWC4jjcxkm/eB5fOZPjtwRgYd3RPqhi1qeRRPeenc86rfp38CWn6U8DzYrkDfGYZinhQD7TxiftJHknd2egvE/SxrODxQv/SPbyygBOWKSfWbSif4VOZb1vtORtf60P0X3jpYoyZhsTZwsR1s3Oabul1q5FsEsCZs0xzWoo2L8fugEUeCV5Ivcmel0lHl9q9geb9nmeuzc5DnVmdspsyBViv/B6A61ZrMvUJ559noCUuGjCEGNjclv4Pq07oAATWFvasU8GKIgJ8mFdA2O9nWDQvbXcmWHNi+jispOl6941nmeVJ9xI40HTncEWKc0p1mT+oOJ42a/WdGZyLrKY5IROrwTrWLiOzL1USjMQOytDOXFVcReXs9w3yIWZNlUGUMNiYpHOEF+ZfsRwRiv3A9mbeG79mRn8/nVjtHgeBEOlGbAtewWhBuZAIh9xgMcdKTIrFaE0iHBkCK0ih8EQFlvhPpwd9N1EgvGOkHtocB9aGmBvtmiT7zuA6W3QfziUIQRkgQ==
+        selected: false
+        status: Unchecked
+        is_visible: false
+      - offset: 112
+        length: 0
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 112
+        initialized_from_dependency: false
+        encrypted_possible_answer: u5POVm2cZn/T63ymM9Ln76D2HASW3mgFF2b7XrBSOTLU5G/ye2FEV9/8YXovLxbFx+CKck3NbCwDcbKBYERewYsiS/TRpjMPfdq2wMye7x2ciYK+3Bj9bDtWQ5qHj1Ypz0/CsQ3JLAkjsCprBDgvDMGamJZZks9C9pVbyljAnikDMHZDhNLASjffK8kcZCn5r7vju1K90dfTzEPvOP6lilqUfIMxUliIRbK0ircNNYeUcqDAmUxoKCz+Nfe4mPaB/pF2JvLDjjOjt4ws0HhM7qs7EjgtuCl55Ge5YnHzyHrhZA2rV9J9479oXCdSrU6zkafg9QWdOR9GEdRY/1NsMYY67irdzlqyobV5uJHDL72zNoAWjMFnDs5jbXNu7dpBsV6orFq77uk+oV1VaG1wgZvi8jgW/+LGl1btFLofqcFgpgGShkDSyf0hsPUUkFQTAAVorCaoOQfn8t1hb38Eh2H0T1DywIQVpMB4qKqNf9DFKKyi+QuzLdelEn1J+8Ssy5Fz3TkERTDGgrlnJ87ifotOuc4YYwozXazmI8eGyJJSkGNqxxZ+pXYYOGPiNui+lFiuGAruXwq75dJhveH2uHulmtzgBJIvI4L9Lv1o3EFcwmFANRITCFF8U/WjTLkmRZDJtxNxKgjROr2EEHCfzxrQAjWHt4hXi/ZknZqEuoOoS4dCPtACFUYwW64dlAsgWm+lv+zN8kLRw85pQD5UcQa7JeaX8kcm5D7RmNiCp1c=
+        selected: false
+        status: Unchecked
+        is_visible: false
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

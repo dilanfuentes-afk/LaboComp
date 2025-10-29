@@ -1,0 +1,45 @@
+type: edu
+files:
+  - name: src/HallarValor.java
+    visible: true
+    placeholders:
+      - offset: 45
+        length: 3
+        placeholder_text: retorno
+        initial_state:
+          length: 7
+          offset: 45
+        initialized_from_dependency: false
+        encrypted_possible_answer: QdJKDjy4GCR1sGqaRlhoeQ==
+        selected: true
+        status: Solved
+      - offset: 61
+        length: 19
+        placeholder_text: parametros
+        initial_state:
+          length: 10
+          offset: 65
+        initialized_from_dependency: false
+        encrypted_possible_answer: dXLTXdGo/6THGrJxBAe5pGgeqg6TN0VxgrcW46Mhmj8=
+        selected: false
+        status: Solved
+      - offset: 92
+        length: 139
+        placeholder_text: // Solución
+        initial_state:
+          length: 11
+          offset: 87
+        initialized_from_dependency: false
+        encrypted_possible_answer: EArMiPGxEcesFOBpcEhsHT8w6s8F319KxHA4yxLJU7G/HgbNgGHplznEEE3Cho3640JuqfTVpkiH55bfJgknbJp9KogP7FUlEg9gji3DViA88F+t+4eopm8ocrV/g3zWat7wWRr5u0AmTcaTM+uoCKn0GpIz71UtrOftmi3o5wzBtjYreaKf3x9TzApwsq2HTUWb0QOcV427spHZBbcZVw==
+        selected: false
+        status: Solved
+        is_visible: false
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 05 Oct 2025 20:58:50 UTC"
+record: -1

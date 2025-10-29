@@ -1,0 +1,44 @@
+type: edu
+files:
+  - name: src/Task.java
+    visible: true
+    placeholders:
+      - offset: 309
+        length: 3
+        placeholder_text: retorno
+        initial_state:
+          length: 7
+          offset: 38
+        initialized_from_dependency: false
+        encrypted_possible_answer: QdJKDjy4GCR1sGqaRlhoeQ==
+        selected: false
+        status: Solved
+      - offset: 320
+        length: 22
+        placeholder_text: parametros
+        initial_state:
+          length: 10
+          offset: 61
+        initialized_from_dependency: false
+        encrypted_possible_answer: bhXX3tDUz+J1lO59YIbOiQ==
+        selected: true
+        status: Solved
+      - offset: 434
+        length: 45
+        placeholder_text: // Solución
+        initial_state:
+          length: 11
+          offset: 83
+        initialized_from_dependency: false
+        encrypted_possible_answer: A/TLm3BCSJssiK4Xc1YGt588eU7yqcTpm/aVcc6gjhiXZodHRYguNsZC+PEszBCGbEcGdzV7I79XQ6/Yk/yTWTidHBfXV5OE8r0xTbfxM444SFM+cSiGYQt8IeTgSFnZ1aW83MdkZd0PMe4ATSbM7TQzCZb+dqb0AOXUMCHbRrqflHOtIl5Qt+sgKGNvnZaG7jg4aRrIH2xyKD8Cd+xFjL1ujn4tHvvRoqHnf9ClGOdf7wli942r9TmxcgkBuCRjK8g8NE5H7VW20RmMP+oWdKpp/4WactMRrEmoBUzIaWXPQkZ9gjIHOemOzvaqSW9rWtYTzRo+wxK+5Dm6SVLVXJUIp3ek1rM9paILKFDFu9E6CqayFrnN699ITEBtoxCQpH7e4C94EHa0EvuzQbu2/lQAqSElYcPgTJn+TLlwqlwaR+HAXOlJqTMShYvohnhZK3jzkwHHz9UvEjXrLELM1d+RpC85AYhE/VkyjG6k0kY1yGG/d68jd1Si7AauDOGPEulRa4tuthuPTyI4jMKHiX9fjwokV8PR4NfaJsxlrPCGX2CPHs1q+JqXnY9UvGdP
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 07 Oct 2025 17:39:59 UTC"
+record: -1

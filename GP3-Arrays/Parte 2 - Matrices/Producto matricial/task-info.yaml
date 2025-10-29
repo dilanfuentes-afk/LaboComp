@@ -1,0 +1,45 @@
+type: edu
+files:
+  - name: src/ProductoMatricial.java
+    visible: true
+    placeholders:
+      - offset: 51
+        length: 7
+        placeholder_text: retorno
+        initial_state:
+          length: 7
+          offset: 51
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4ouju8vhFd1gKa9D/UIAqw==
+        selected: true
+        status: Solved
+      - offset: 77
+        length: 20
+        placeholder_text: parametros
+        initial_state:
+          length: 10
+          offset: 77
+        initialized_from_dependency: false
+        encrypted_possible_answer: 29YxuM8JZ4N756lsedW0SenvgkD+VCcDh0IuiHU8w7gAqq4ub3WF6gs7RV/4B0fk
+        selected: true
+        status: Solved
+      - offset: 100
+        length: 1
+        placeholder_text: // Solución
+        initial_state:
+          length: 11
+          offset: 99
+        initialized_from_dependency: false
+        encrypted_possible_answer: DSpML4T+ekrXJHc4bIlterpORAy6slqCVXD1bHIAv8JZhLLHnYUI0uw8SaO6/TqKegW8giu/E8KQ6yC6j1fYjX0EWD958txyojTWKqhf53adAKoGNSV7+OxcXDf3VS0A419x1dtwGOfbuJDwjhlzOiZHkVdfKFzzwgm897vIQGKNYzAYNabOf4G0uVmEvlgdsfXC40ruvD5i/b26VaCBT+XWytBjWR2o+ZVnYZW2ooNM1JcTw6d5Tm/WUm4OqSK5+oOKeJMd3It45cqxy7cuItbfFKWw/A637V0pRXyCB22OnW0fsbkMdt743U712rZHzTpWi0BV2d+cjo1pk5tmeX6bKJoV9V+AH3qOdBE3CybUdQrrxNYgSfUpRv+ycP5FtSikLZnt6+VnbRvbLm7pP4CQULkonWqzMhjSjjnys3ytCKMYezzLyEyVmDNcjEv72ucGA7Olksfu4uAsdRS8HyikEenEsrVj22/kmu/FpLbKvNsXzWYNJnCndwN2RLVZVvs2Jh8E3sV+dnxJ7ZKskirpdm4msfBxMAUaNc5TLivT/62KlMcC6YQ2TRZ3HALzSosexzXS6uHfoikCrudC5T4ZsQum62wE1IFzz+zA4CFyJUFP8x1oJpf7p4EAOYFZk3BFXRpCfNGYoF53z81ZAgCEuKd8fXcE9COWkohjKN0b6DqhaprvCnA655s2nkBYYA4fH7eungWCJK/qqh82S7IIO+VrR2ZPvCV/zq9nHEO9+Po3BghBID1z2ZgyNImGgdbvwv93pu+SEA6IYXWmMof+2aNM3aIGHf5HzdhVfp3SPICn9aCk5xBryDwR5A+XAsYUAtlnbxXdJa49QV3BogKitj23Ohm8oUvSJIzJKhp5XWTSKiKv0/TyUxt+R6IYmC88SgBE7K7YdqMdAqiwXBACTlwh4K9gos4wGc3hBybaF1Y6DXG6EzBPlCwELedZbuqelOz/SDQb0w0Dkcm9IHH7556isq0PQQ9zBBSBsXNgNe3gBW8wKTJ1fzXgRque/57kiEEyx7Tk8ortPG+2uVgX+8RMi27lDosEL2UIBZ8=
+        selected: false
+        status: Solved
+        is_visible: false
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 06 Oct 2025 04:25:51 UTC"
+record: -1
