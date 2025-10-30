@@ -1,4 +1,7 @@
-package Ejercicios;
+package PruebaDeEjercicios;
+
+import Ejercicios.Asignatura;
+import Ejercicios.Estudiantes;
 
 public class Ejercicio4 {
     public static void main(String[] args) {
@@ -10,7 +13,7 @@ public class Ejercicio4 {
         };
 
 
-        Estudiantes estudiante = new Estudiantes();
+        Estudiantes estudiante = new Estudiantes("Dilan", materias);
 
         double promedio = estudiante.calcularPromedio();
         System.out.println("Promedio general: " + promedio);

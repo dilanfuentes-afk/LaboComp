@@ -1,4 +1,6 @@
-package Ejercicios;
+package PruebaDeEjercicios;
+
+import Ejercicios.Año;
 
 public class Ejercicio5 {
     public static void main(String[] args) {
