@@ -40,5 +40,17 @@ public class Persona {
     public void setAltura(double altura) {
         this.altura = altura;
     }
+
+    public void saludar(){
+        System.out.println("Hola, Buenos dias");
+    }
+
+    public void saludar(Persona nombre){
+        System.out.println("Hola, Buenos dias " + nombre.getNombre() + " soy " + this.nombre) ;
+    }
+
+    public void saludar(String nombre) {
+        System.out.println("Hola, Buenos dias" + nombre);
+    }
 }
 

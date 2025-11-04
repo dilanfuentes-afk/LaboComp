@@ -10,7 +10,7 @@ public class Ejercicio12 {
                     new Resistor(300)
             };
 
-            System.out.println("Equivalente en serie: " + Resistor.calcularEquivalenteSerie(resistores) + " Ω");
-            System.out.println("Equivalente en paralelo: " + Resistor.calcularEquivalenteParalelo(resistores) + " Ω");
+            System.out.println("en serie: " + Resistor.calcularEquivalenteSerie(resistores));
+            System.out.println("en paralelo: " + Resistor.calcularEquivalenteParalelo(resistores));
         }
 }

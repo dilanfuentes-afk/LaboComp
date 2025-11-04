@@ -9,6 +9,10 @@ public class Asignatura {
         this.calificaciones = calificaciones;
     }
 
+    public Asignatura(String nombre) {
+        calificaciones = 7;
+    }
+
     public Asignatura() {
     }
 
